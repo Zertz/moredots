@@ -35,8 +35,3 @@ git clone https://github.com/Zertz/moredots.git
 npm install
 npm test
 ```
-
-### Guidelines
-
-- [Standard](https://github.com/feross/standard) style
-- Use ES2015 features when appropriate
