@@ -6,7 +6,7 @@ describe('moredots', () => {
   const moredots = require('../src')
 
   it('recursively converts objects to dot notation', () => {
-    let result = moredots({
+    const result = moredots({
       foo: {
         bar: {
           baz: 42
