@@ -27,6 +27,7 @@
     "mocha": "^9.0.1"
   },
   "files": [
+    "index.d.ts",
     "LICENSE",
     "README.md",
     "src/"
