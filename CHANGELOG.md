@@ -1,6 +1,9 @@
-Changelog
-=========
+# Changelog
 
-1.0.0
+2.0.0
 
-* removed support for Node < 4
+- removed support for Node < 12
+
+  1.0.0
+
+- removed support for Node < 4
